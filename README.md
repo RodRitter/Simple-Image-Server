@@ -16,8 +16,6 @@ npm install
 
 Add your large source images in the `/images` directory.
 
-eg. `/images/landscape.jpg`
-
 ### Start the server
 
 You can change the port in the `.env` file.

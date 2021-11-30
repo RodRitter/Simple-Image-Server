@@ -16,5 +16,6 @@ app.get("/background-demo", (req, res) => {
 });
 
 app.listen(process.env.PORT, () => {
-  console.log(`Listening at http://localhost:${process.env.PORT}`);
+  console.log(`Simple Image Server Running`);
+  console.log(`http://localhost:${process.env.PORT}`);
 });

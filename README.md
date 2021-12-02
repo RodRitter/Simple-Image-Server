@@ -22,9 +22,6 @@ You can change the port in the `.env` file.
 
 ```bash
 node server.js
-
-Simple Image Server Running
-http://localhost:5555
 ```
 
 ### Fetch optimised images

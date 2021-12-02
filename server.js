@@ -5,8 +5,10 @@ const app = express();
 const { imageController } = require("./controllers");
 
 // Example: /image/landscape.jpg?width=200
+// Params: width, height, blur, format (jpg, png)
 app.get("/image/:id.:format", imageController.getImage);
 
+// Demos
 app.get("/image-demo", (req, res) => {
   res.sendFile(path.join(__dirname, "pages/image-demo.html"));
 });

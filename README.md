@@ -38,6 +38,11 @@ http://localhost:5555/landscape.jpg?width=800
 http://localhost:5555/landscape.jpg?width=1000&format=png
 http://localhost:5555/landscape.jpg?width=1500&blur=3
 ```
+## Options
+- width
+- height
+- blur
+- format (jpg, png)
 
 ## Contributing
 

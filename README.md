@@ -14,7 +14,7 @@ npm install
 
 ### Add source images
 
-Create `./images` directory and add your large source images.
+Create `/images` directory and add your large source images.
 
 ### Start the server
 

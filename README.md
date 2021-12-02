@@ -15,6 +15,7 @@ npm install
 ### Add source images
 
 Create a `/images` directory, store your source images here.
+
 Create a `/images/cache` directory
 
 ### Start the server

@@ -1,6 +1,6 @@
 # Simple Image Server
 
-Deliver multiple optimised image sizes and formats from large, high quality source images.
+Retrieve image assets at any size from a single source image
 
 ## Installation
 

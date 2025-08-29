@@ -28,12 +28,12 @@ node server.js
 
 ```bash
 // Original
-http://localhost:5555/landscape.jpg
+http://localhost:5555/image/landscape.jpg
 
 // Optimised
-http://localhost:5555/landscape.jpg?width=800
-http://localhost:5555/landscape.jpg?width=1000&format=png
-http://localhost:5555/landscape.jpg?width=1500&blur=3
+http://localhost:5555/image/landscape.jpg?width=800
+http://localhost:5555/image/landscape.jpg?width=1000&format=png
+http://localhost:5555/image/landscape.jpg?width=1500&blur=3
 ```
 ## Options
 - width
